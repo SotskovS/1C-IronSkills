@@ -13,4 +13,15 @@
 {4,"_$InfoBase$_.ConfigUpdate",6},
 {4,"_$InfoBase$_.DBConfigUpdateStart",7},
 {4,"_$InfoBase$_.DBConfigUpdate",8},
-{3,"1CV8C",2}
+{3,"1CV8C",2},
+{4,"_$PerformError$_",9},
+{3,"BackgroundJob",3},
+{4,"_$Transaction$_.Begin",10},
+{4,"_$Data$_.Update",11},
+{5,8c1c15b6-b554-4f6d-8ac0-50e1a33edee4,"Справочник.Контрагенты",1},
+{4,"_$Transaction$_.Commit",12},
+{4,"_$Data$_.New",13},
+{4,"_$Data$_.Delete",14},
+{5,4e0ad972-982a-43a9-b617-a556ffafba09,"Справочник.ДоговорыКонтрагентов",2},
+{4,"_$InfoBase$_.DumpStart",15},
+{4,"_$InfoBase$_.DumpFinish",16}
