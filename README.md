@@ -1,3 +1,3 @@
 ﻿# 1C-IronSkills
 
-Inin Moskow highway
+Init Moskow highway
